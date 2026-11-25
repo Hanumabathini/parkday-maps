@@ -1,0 +1,64 @@
+park_slug,park_name,nps_park_code,source_url,bytes,pages,status,notes
+acadia,Acadia,acad,https://npmaps.com/wp-content/uploads/acadia-map.pdf,15895158,1,ok,Source: NPMaps — NPS maps page links no full-park PDF. NPMaps maps are based on NPS entrance-station maps (public-domain base); NPMaps is not affiliated with or endorsed by NPS.
+arches,Arches,arch,https://npmaps.com/wp-content/uploads/arches-map.pdf,2674663,1,ok,Source: NPMaps — NPS maps page links no full-park PDF (only NPS carto app link).
+badlands,Badlands,badl,https://npmaps.com/wp-content/uploads/badlands-map.pdf,368877,1,ok,Source: NPMaps — NPS maps page links no full-park PDF.
+big-bend,Big Bend,bibe,https://npmaps.com/wp-content/uploads/big-bend-map.pdf,7818866,1,ok,Source: NPMaps — NPS maps page links only a Wild & Scenic Rivers brochure PDF and JPGs.
+biscayne,Biscayne,bisc,https://npmaps.com/wp-content/uploads/biscayne-map.pdf,1895066,1,ok,Source: NPMaps — NPS maps page links no full-park PDF.
+black-canyon-of-the-gunnison,Black Canyon of the Gunnison,blca,https://www.nps.gov/blca/planyourvisit/upload/Black_Canyon_unigrid_2023_508_web.pdf,7185019,2,ok,Source: NPS-direct — official NPS unigrid 2023 (public domain). pdfinfo shows a benign 'Suspects object is wrong type' warning; file is a valid PDF.
+bryce-canyon,Bryce Canyon,brca,https://npmaps.com/wp-content/uploads/bryce-canyon-map.pdf,3272541,1,ok,Source: NPMaps — NPS brochure map (public-domain base); NPMaps is not affiliated with or endorsed by NPS. Clean NPS version for this park.
+canyonlands,Canyonlands,cany,https://npmaps.com/wp-content/uploads/canyonlands-map.pdf,8175623,1,ok,"Source: NPMaps — NPS maps page links only district/backcountry PDFs (Island in the Sky, Needles, Maze, Horseshoe Canyon)."
+capitol-reef,Capitol Reef,care,https://npmaps.com/wp-content/uploads/capitol-reef-map.pdf,1182596,1,ok,Source: NPMaps — NPS maps page links no full-park PDF.
+carlsbad-caverns,Carlsbad Caverns,cave,https://npmaps.com/wp-content/uploads/carlsbad-caverns-map.pdf,121980,1,ok,Source: NPMaps — NPS maps page links only a JPG map.
+channel-islands,Channel Islands,chis,https://npmaps.com/wp-content/uploads/channel-islands-map.pdf,2775804,1,ok,Source: NPMaps — NPS maps page links only per-island hiking PDFs.
+congaree,Congaree,cong,https://npmaps.com/wp-content/uploads/congaree-map.pdf,1894440,1,ok,Source: NPMaps — NPS maps page links no full-park PDF.
+crater-lake,Crater Lake,crla,https://npmaps.com/wp-content/uploads/crater-lake-map.pdf,10952584,1,ok,Source: NPMaps — NPS maps page links no full-park PDF (only NPS carto app link).
+cuyahoga-valley,Cuyahoga Valley,cuva,https://npmaps.com/wp-content/uploads/cuyahoga-valley-map.pdf,1139629,1,ok,Source: NPMaps — NPS maps page links no full-park PDF (only NPS carto app link).
+death-valley,Death Valley,deva,https://npmaps.com/wp-content/uploads/death-valley-map.pdf,9124562,1,ok,Source: NPMaps — NPS maps page links only a backcountry map PDF and a Las Vegas routes PDF.
+denali,Denali,dena,https://npmaps.com/wp-content/uploads/denali-map.pdf,11709093,1,ok,Source: NPMaps — NPS maps page links only trail maps.
+dry-tortugas,Dry Tortugas,drto,https://npmaps.com/wp-content/uploads/dry-tortugas-map.pdf,825322,1,ok,Source: NPMaps — NPS maps page links only a NOAA booklet chart.
+everglades,Everglades,ever,https://npmaps.com/wp-content/uploads/everglades-map.pdf,4257950,1,ok,Source: NPMaps — no PDF links on NPS maps page.
+gates-of-the-arctic,Gates of the Arctic,gaar,https://npmaps.com/wp-content/uploads/gates-of-the-arctic-map.pdf,10043890,1,ok,Source: NPMaps — NPS-linked gaarmap1.pdf returned an HTML error page twice (deleted); NPMaps main map used.
+gateway-arch,Gateway Arch,jeff,https://npmaps.com/wp-content/uploads/gateway-arch-national-park-map.pdf,5447476,1,ok,Source: NPMaps — no PDF links on NPS maps page; NPMaps brochure map.
+glacier,Glacier,glac,https://npmaps.com/wp-content/uploads/glacier-map.pdf,4435598,1,ok,Source: NPMaps — NPS brochure map (public-domain base); NPMaps is not affiliated with or endorsed by NPS. Clean NPS version for this park.
+glacier-bay,Glacier Bay,glba,https://www.nps.gov/glba/planyourvisit/upload/Glacier-Bay-ENC-80k-web-version.pdf,4954466,9,ok,"Source: NPS-direct — official NPS Electronic Nautical Chart 1:80,000 (public domain). Glacier Bay is primarily marine, so the main park map is a nautical chart; 9 pages."
+grand-canyon,Grand Canyon,grca,https://npmaps.com/wp-content/uploads/grand-canyon-national-park-map.pdf,15936050,1,ok,Source: NPMaps — NPS brochure map (public-domain base); NPMaps is not affiliated with or endorsed by NPS. Clean NPS version for this park.
+grand-teton,Grand Teton,grte,https://npmaps.com/wp-content/uploads/grand-teton-map.pdf,9458011,1,ok,Source: NPMaps — NPS brochure map (public-domain base); NPMaps is not affiliated with or endorsed by NPS. Clean NPS version for this park.
+great-basin,Great Basin,grba,https://npmaps.com/wp-content/uploads/great-basin-map.pdf,3340301,1,ok,Source: NPMaps — no PDF links on NPS maps page.
+great-sand-dunes,Great Sand Dunes,grsa,https://npmaps.com/wp-content/uploads/great-sand-dunes-map.pdf,19378936,1,ok,Source: NPMaps — no PDF links on NPS maps page.
+great-smoky-mountains,Great Smoky Mountains,grsm,https://www.nps.gov/grsm/planyourvisit/upload/grsmmap_2024_reduced_508.pdf,6221950,1,ok,Source: NPS-direct — official NPS 2024 park map (public domain).
+guadalupe-mountains,Guadalupe Mountains,gumo,https://npmaps.com/wp-content/uploads/guadalupe-mountains-national-park-map.pdf,7523386,1,ok,"Source: NPMaps — no PDF links on NPS maps page; brochure map (the plain guadalupe-mountains-map.pdf is an 'Assorted' variant, not used)."
+haleakala,Haleakala,hale,https://npmaps.com/wp-content/uploads/haleakala-map.pdf,351879,1,ok,Source: NPMaps — no PDF links on NPS maps page.
+hawaii-volcanoes,Hawaii Volcanoes,havo,https://npmaps.com/wp-content/uploads/hawaii-volcanoes-map.pdf,15854398,1,ok,Source: NPMaps — no PDF links on NPS maps page.
+hot-springs,Hot Springs,hosp,https://npmaps.com/wp-content/uploads/hot-springs-map.pdf,928218,1,ok,Source: NPMaps — no PDF links on NPS maps page.
+indiana-dunes,Indiana Dunes,indu,https://npmaps.com/wp-content/uploads/indiana-dunes-national-park-map.pdf,1907318,1,ok,"Source: NPMaps — no PDF links on NPS maps page; brochure map (the plain indiana-dunes-map.pdf is an archived variant, not used)."
+isle-royale,Isle Royale,isro,https://npmaps.com/wp-content/uploads/isle-royale-map.pdf,1711845,1,ok,Source: NPMaps — NPS maps page links no full visitor map PDF.
+joshua-tree,Joshua Tree,jotr,https://npmaps.com/wp-content/uploads/joshua-tree-map.pdf,6881806,1,ok,Source: NPMaps — NPS maps page links no PDF.
+katmai,Katmai,katm,https://npmaps.com/wp-content/uploads/katmai-map.pdf,12049181,1,ok,Source: NPMaps — NPS maps page links only closure/permit PDFs.
+kenai-fjords,Kenai Fjords,kefj,https://npmaps.com/wp-content/uploads/kenai-fjords-map.pdf,9148979,1,ok,Source: NPMaps — NPS maps page links no PDF.
+kings-canyon,Kings Canyon,seki,https://npmaps.com/wp-content/uploads/sequoia-kings-canyon-park-map.pdf,1383749,1,ok,"Source: NPMaps — combined Sequoia & Kings Canyon park map; no separate Kings Canyon map exists on NPMaps, and NPS likewise offers only the combined Unigrid (translated versions only). Same file as sequoia-map.pdf."
+kobuk-valley,Kobuk Valley,kova,https://npmaps.com/wp-content/uploads/kobuk-valley-map.pdf,4817899,1,ok,Source: NPMaps — NPS maps page links no PDF.
+lake-clark,Lake Clark,lacl,https://npmaps.com/wp-content/uploads/lake-clark-map.pdf,18567829,1,ok,Source: NPMaps — NPS maps page links no PDF.
+lassen-volcanic,Lassen Volcanic,lavo,https://npmaps.com/wp-content/uploads/lassen-volcanic-map.pdf,1245704,1,ok,Source: NPMaps — NPS maps page links no PDF.
+mammoth-cave,Mammoth Cave,maca,https://npmaps.com/wp-content/uploads/mammoth-cave-map.pdf,3939770,1,ok,Source: NPMaps — NPS maps page links no PDF.
+mesa-verde,Mesa Verde,meve,https://npmaps.com/wp-content/uploads/mesa-verde-map.pdf,4504911,1,ok,Source: NPMaps — NPS maps page links no PDF.
+mount-rainier,Mount Rainier,mora,https://npmaps.com/wp-content/uploads/mount-rainier-map.pdf,756393,1,ok,Source: NPMaps — NPS maps page links only area trail PDFs.
+national-park-of-american-samoa,National Park of American Samoa,npsa,https://npmaps.com/wp-content/uploads/american-samoa-map.pdf,296990,1,ok,Source: NPMaps — NPS page links only a 'Local Area Map' and a Manu'a Islands PDF; NPMaps page found under slug 'american-samoa'.
+new-river-gorge,New River Gorge,neri,https://npmaps.com/wp-content/uploads/new-river-gorge-map.pdf,6672741,1,ok,Source: NPMaps — NPS maps page links no PDF.
+north-cascades,North Cascades,noca,https://npmaps.com/wp-content/uploads/north-cascades-map.pdf,790909,1,ok,Source: NPMaps — NPS maps page links only a Ross Lake trip planner PDF.
+olympic,Olympic,olym,https://npmaps.com/wp-content/uploads/olympic-map.pdf,26772243,1,ok,Source: NPMaps — NPS maps page links no direct PDF; NPMaps archived classic map (OLYMmap1). Largest file in the set (26.8 MB); may be an older edition.
+petrified-forest,Petrified Forest,pefo,https://npmaps.com/wp-content/uploads/petrified-forest-national-park-map.pdf,7784849,1,ok,Source: NPMaps — NPS maps page has no PDF; NPMaps current park-brochure map.
+pinnacles,Pinnacles,pinn,https://npmaps.com/wp-content/uploads/pinnacles-national-park-map.pdf,13001257,1,ok,Source: NPMaps — NPS page links only a 2019 DRAFT map update; NPMaps current park-brochure map.
+redwood,Redwood,redw,https://npmaps.com/wp-content/uploads/redwood-national-park-map.pdf,4146733,1,ok,Source: NPMaps — NPS page links only horse-trail and state-park camp maps; NPMaps current park-brochure map.
+rocky-mountain,Rocky Mountain,romo,https://npmaps.com/wp-content/uploads/rocky-mountain-map.pdf,1346853,1,ok,Source: NPMaps — NPS brochure map (public-domain base); NPMaps is not affiliated with or endorsed by NPS. Clean NPS version for this park.
+saguaro,Saguaro,sagu,https://npmaps.com/wp-content/uploads/saguaro-national-park-east.pdf,6133969,1,ok,Source: NPMaps — PARTIAL COVERAGE: no single full-park map exists; park is two districts split by Tucson and NPS offers only district hiking guides. This file is the East (Rincon Mountain) district brochure panel only; West district panel not included.
+sequoia,Sequoia,seki,https://npmaps.com/wp-content/uploads/sequoia-kings-canyon-park-map.pdf,1383749,1,ok,"Source: NPMaps — combined Sequoia & Kings Canyon park map; no separate Sequoia-only map exists on NPMaps, and NPS offers only foreign-language Unigrids. Same file as kings-canyon-map.pdf."
+shenandoah,Shenandoah,shen,https://npmaps.com/wp-content/uploads/shenandoah-national-park-map.pdf,10211190,1,ok,Source: NPMaps — NPS page links only foreign-language brochure PDFs and trail/campground maps; NPMaps current park-brochure map.
+theodore-roosevelt,Theodore Roosevelt,thro,https://npmaps.com/wp-content/uploads/theodore-roosevelt-national-park-area-map.pdf,1112221,1,ok,"Source: NPMaps — PARTIAL COVERAGE: no single full park map; NPMaps brochure area/overview map covering all three units (North, South, Elkhorn). Separate per-unit maps exist as archived files, not included."
+virgin-islands,Virgin Islands,viis,https://npmaps.com/wp-content/uploads/virgin-islands-map.pdf,2155143,1,ok,Source: NPMaps — NPS maps page has no PDF (interactive marine map only); NPMaps archived classic map (may be an older edition).
+voyageurs,Voyageurs,voya,https://npmaps.com/wp-content/uploads/voyageurs-map.pdf,8933871,1,ok,Source: NPMaps — NPS brochure map is via NPS media collection with no direct PDF; NPMaps official brochure map.
+white-sands,White Sands,whsa,https://www.nps.gov/whsa/planyourvisit/upload/WHSA_Unigrid_2022.pdf,5867078,2,ok,"Source: NPS-direct — official NPS Unigrid 2022 (public domain), linked from the NPS maps page."
+wind-cave,Wind Cave,wica,https://npmaps.com/wp-content/uploads/wind-cave-map.pdf,653110,1,ok,Source: NPMaps — NPS page has no PDF (maps for purchase only); NPMaps classic full park map (not the cave-system 'whole-map' variant).
+wrangellst-elias,Wrangell-St. Elias,wrst,https://www.nps.gov/wrst/learn/photosmultimedia/upload/WRST_Unigrid_English-508.pdf,6000192,2,ok,"Source: NPS-direct — official NPS Unigrid English 508 (public domain), linked from the NPS maps page."
+yellowstone,Yellowstone,yell,https://npmaps.com/wp-content/uploads/yellowstone-map.pdf,11720406,1,ok,Source: NPMaps — NPS brochure map (public-domain base); NPMaps is not affiliated with or endorsed by NPS. Clean NPS version for this park.
+yosemite,Yosemite,yose,https://npmaps.com/wp-content/uploads/yosemite-map.pdf,11332072,1,ok,Source: NPMaps — NPS page links only a campground map PDF; NPMaps park-brochure map.
+zion,Zion,zion,https://npmaps.com/wp-content/uploads/zion-map.pdf,4023377,1,ok,Source: NPMaps — NPS brochure map (public-domain base); NPMaps is not affiliated with or endorsed by NPS. Clean NPS version for this park.
